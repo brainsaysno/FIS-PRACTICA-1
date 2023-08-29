@@ -1,8 +1,8 @@
 # Práctica 1
 
 *:warning: Importante:* escribir nombre y número de estudiante en la línea siguiente:  
-- Nombre: XXXXXXXX  
-- Número de estudiante: XXXXXXXX
+- Nombre: Nicolás Russo
+- Número de estudiante: 227286
 
 ## Parte A
 
