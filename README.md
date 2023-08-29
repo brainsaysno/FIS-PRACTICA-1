@@ -41,7 +41,7 @@ Los cambios se deben codificar en el repositorio local y posteriormente hacer pu
     }
     ```
    - Realizar commit del cambio en la rama
-   - Realizar push de las rama 'addTimer' al remoto
+   - Realizar push de la rama 'uncomplete' al remoto
 
 3. Feature 'addTimer'
    - Moverse a la rama 'main'
@@ -54,7 +54,7 @@ Los cambios se deben codificar en el repositorio local y posteriormente hacer pu
     }
     ```
    - Realizar commit del cambio en la rama
-   - Realizar push de las rama 'addTimer' al remoto
+   - Realizar push de la rama 'addTimer' al remoto
 
 4. Merge de features
    - Moverse a la rama 'main'
